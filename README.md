@@ -4,18 +4,21 @@
 |key|value|
 |---|-----|
 |Name|吉原 創 (Sou Yoshihara)|
+|Facebook|[Sou Yoshihara](https://www.facebook.com/profile.php?id=100004182635861)
 |GitHub|[@sousquared](https://github.com/sousquared)
 |Instagram|[@souzo_squared](https://www.instagram.com/souzo_squared/)|
 
 ## スキル
 ### 言語
-- Python
 - 日本語
   - ネイティブ
 - English
   - 日常会話
   - TOEIC 875 (2019/04)
   - TOEFL 85 (2017/06)
+  
+### プログラミング言語
+- Python
 
 ### フレームワーク
 - Pytorch
@@ -23,15 +26,19 @@
 ### その他
 - KaiRA(京都大学人工知能研究会) 運営メンバー
     - 人工知能に関する輪読会を行っている
-- JEES・ソフトバンクAI人材育成奨学金 (2019-2020)
+- JEES・ソフトバンクAI人材育成奨学金 (2020-2021)
 
 ## 強み
 - 自分の興味に従って積極的に行動する
 - プレゼンや説明が得意
 - インターナショナルな交友関係　世界中に友達がいる
 
-## やったことはないが興味があるもの
-- AIを使ったArtやエンターテインメント
+
+## 興味があるもの
+- AI技術の社会的応用
+- 人間の認知能力の仕組み（神経科学, 心理学, 行動経済学）
+- AIを使ったアートやエンターテインメント
+
 
 ## 学歴
 |Date|School|
