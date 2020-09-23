@@ -1,4 +1,4 @@
-# 履歴書/職務経歴書 (Curriculum-Vitae)
+# 履歴書/職務経歴書 (Resume/Curriculum-Vitae)
 
 ## 基本情報
 |key|value|
