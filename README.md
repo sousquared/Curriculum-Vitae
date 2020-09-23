@@ -3,7 +3,7 @@
 ## 基本情報
 |key|value|
 |---|-----|
-|Name|吉原　創 (Sou Yoshihara)|
+|Name|吉原 創 (Sou Yoshihara)|
 |GitHub|[@sousquared](https://github.com/sousquared)
 |Instagram|[@souzo_squared](https://www.instagram.com/souzo_squared/)|
 
