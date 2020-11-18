@@ -6,7 +6,7 @@
 |Name|吉原 創 (Sou Yoshihara)|
 |Facebook|[Sou Yoshihara](https://www.facebook.com/profile.php?id=100004182635861)
 |GitHub|[@sousquared](https://github.com/sousquared)
-|Instagram|[@souzo_squared](https://www.instagram.com/souzo_squared/)|
+|Instagram|[@souzosquared](https://www.instagram.com/souzo_squared/)|
 
 ## スキル
 ### 言語
