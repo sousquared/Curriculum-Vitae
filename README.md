@@ -57,7 +57,7 @@
 Graph Convolutional NetworkやRelational Graph Convolutional Network
 関係の論文調査や研究員の方が考案したモデルの一部の実装、アルゴリズムの評価などを行った。
 
-- 2021/01: サイバーエージェント 極予測AI事業部 開発インターン <br>
+- 2021/01: サイバーエージェント 極予測AI事業部 予測チーム 開発インターン <br>
 **現在進行中…**
 
 ## 受賞歴
