@@ -54,7 +54,7 @@
 - 2018/08 - 2020/08: 株式会社日立製作所 京大ラボ (学生研究員アルバイト) <br>
 最新の機械学習分野の論文調査や実装を担当した。
 具体的には、地理空間情報のモデル化に適応可能なアルゴリズムの研究開発の一環として、
-Graph Convolutional NetworkやRelational Graph Convolutional Network
+Graph Convolutional Network・Relational Graph Convolutional Network
 関係の論文調査や研究員の方が考案したモデルの一部の実装、アルゴリズムの評価などを行った。
 
 - 2021/01: サイバーエージェント 極予測AI事業部 予測チーム 開発インターン <br>
