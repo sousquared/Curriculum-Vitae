@@ -22,6 +22,7 @@
 
 ### フレームワーク
 - Pytorch
+- TensorFlow
 
 ### その他
 - KaiRA(京都大学人工知能研究会) 運営メンバー
@@ -58,7 +59,7 @@ Graph Convolutional Network・Relational Graph Convolutional Network
 関連の論文調査や研究員の方が考案したモデルの一部の実装・アルゴリズムの評価などを行った。
 
 - 2021/01: サイバーエージェント 極予測AI事業部 予測チーム ML/DSインターン <br>
-動画広告スコア予測モデルのアップデート＆精度検証を担当した。
+動画広告スコア予測モデルのアップデート＆精度評価を担当した。
 
 ## 受賞歴
 - [日本視覚学会2020夏季大会 ベストプレゼンテーション賞](https://sites.google.com/prod/view/vsj2020summer/home) <br>
