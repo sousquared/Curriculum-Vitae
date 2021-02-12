@@ -64,7 +64,9 @@ Graph Convolutional Network・Relational Graph Convolutional Network
 ## 受賞歴
 - [日本視覚学会2020夏季大会 ベストプレゼンテーション賞](https://sites.google.com/prod/view/vsj2020summer/home) <br>
 "Shape Bias獲得へ向けて：人間の視覚発達過程に基づいた、段階的な画像ぼかしによる畳み込みニューラルネットワークの訓練" <br>
-[講演要旨 (VISION vol. 33, No.1, 1-5, 2021)](https://doi.org/10.24636/vision.33.1_1)
+[講演要旨 (VISION vol. 33, No.1, 1-5, 2021)](https://doi.org/10.24636/vision.33.1_1) <br>
+[code](https://github.com/sousquared/blur-training/tree/v1.0/imagenet16)
+
 
 [](
 参考：https://github.com/okohs/Curriculum-Vitae-template
