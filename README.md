@@ -4,7 +4,7 @@
 |key|value|
 |---|-----|
 |Name|吉原 創 (Sou Yoshihara)|
-|Facebook|[Sou Yoshihara](https://www.facebook.com/profile.php?id=100004182635861)
+|Facebook|[Sou Yoshihara](https://www.facebook.com/people/Sou-Yoshihara/100004182635861)
 |GitHub|[@sousquared](https://github.com/sousquared)
 |Instagram|[@sousquared](https://www.instagram.com/souzosquared/)|
 
