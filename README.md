@@ -19,6 +19,8 @@
   
 ### プログラミング言語
 - Python
+- HTML, CSS
+- JavaScript
 
 ### フレームワーク
 - Pytorch
