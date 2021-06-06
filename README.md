@@ -7,6 +7,7 @@
 |Facebook|[Sou Yoshihara](https://www.facebook.com/people/Sou-Yoshihara/100004182635861)
 |GitHub|[@sousquared](https://github.com/sousquared)
 |Instagram|[@sousquared](https://www.instagram.com/sousquared/)|
+|Twitter|[@sou_squared](https://twitter.com/sou_squared)|
 
 ## スキル
 ### 言語
@@ -63,12 +64,14 @@ Graph Convolutional Network・Relational Graph Convolutional Network
 - 2021/01: サイバーエージェント 極予測AI事業部 予測チーム ML/DSインターン <br>
 動画広告スコア予測モデルのアップデート＆精度評価を担当した。
 
-## 受賞歴
-- [日本視覚学会2020夏季大会 ベストプレゼンテーション賞](https://sites.google.com/prod/view/vsj2020summer/home) <br>
-"Shape Bias獲得へ向けて：人間の視覚発達過程に基づいた、段階的な画像ぼかしによる畳み込みニューラルネットワークの訓練" <br>
-[講演要旨 (VISION vol. 33, No.1, 1-5, 2021)](https://doi.org/10.24636/vision.33.1_1) <br>
+## 研究
+- [吉原 創, 吹上 大樹, 西田 眞也, "Shape Bias獲得へ向けて： 
+人間の視覚発達過程に基づいた、段階的な画像ぼかしによる畳み込みニューラルネットワークの訓練", VISION, Vol. 33, No.1, 1-5, 2021.](https://doi.org/10.24636/vision.33.1_1) <br>
+[日本視覚学会2020夏季大会 ベストプレゼンテーション賞](https://sites.google.com/prod/view/vsj2020summer/home) <br>
 [code](https://github.com/sousquared/blur-training/tree/v2.0/)
 
+- Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, 
+"Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", V-VSS, Poster session, 2021.
 
 [](
 参考：https://github.com/okohs/Curriculum-Vitae-template
