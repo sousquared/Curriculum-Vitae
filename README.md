@@ -71,7 +71,7 @@ Graph Convolutional Network・Relational Graph Convolutional Network
 [code](https://github.com/sousquared/blur-training/tree/v2.0/)
 
 - Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, 
-"Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", V-VSS, Poster session, 2021.
+"Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", VSS, Poster session, 2021.
 
 [](
 参考：https://github.com/okohs/Curriculum-Vitae-template
