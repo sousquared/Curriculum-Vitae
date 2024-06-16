@@ -19,12 +19,16 @@
   
 ### プログラミング言語
 - Python
-- HTML, CSS
-- JavaScript
 
-### フレームワーク
-- Pytorch
-- TensorFlow
+### 開発経験
+- GCP (Google Cloud Platform)
+  - Cloud Run
+  - Cloud BUild
+  - GKE (Google Kubernetes Engine)
+  - など
+- 機械学習モデルを使ったPoCやサービスイン実装
+- API開発 (FastAPI)
+- クリーンアーキテクチャ, DDD (Domain-Driven Design) を意識したコーディング
 
 ### その他
 - KaiRA(京都大学人工知能研究会) 運営メンバー
@@ -62,6 +66,11 @@ Graph Convolutional Network・Relational Graph Convolutional Network
 
 - 2021/01: サイバーエージェント 極予測AI事業部 予測チーム ML/DSインターン <br>
 動画広告スコア予測モデルのアップデート＆精度評価を担当した。
+
+- 2022/04 ~ 現在: サイバーエージェント 極予測AI事業部 新規事業開発チーム <br>
+AIを活用した新機能のPoCやサービスイン開発に従事. <br>
+4~5人規模のMLチームのリーダーを担う. <br>
+その他: DSOps研修の運営リーダーなど.
 
 ## 研究
 - [吉原 創, 吹上 大樹, 西田 眞也, "Shape Bias獲得へ向けて： 
