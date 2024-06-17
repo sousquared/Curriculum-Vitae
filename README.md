@@ -73,7 +73,7 @@
 - [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, 
 "Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", VSS, Poster session, 2021.](https://jov.arvojournals.org/article.aspx?articleid=2777412)
 
-- [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Does training with blurred images bring convolutional neural networks closer to humans with respect to robust object recognition and internal representations?", Front. Psychol., Vol. 14,2023](frontiersin.org/articles/10.3389/fpsyg.2023.1047694/full)
+- [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Does training with blurred images bring convolutional neural networks closer to humans with respect to robust object recognition and internal representations?", Front. Psychol., Vol. 14,2023](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1047694/full)
 
 [](
 参考：https://github.com/okohs/Curriculum-Vitae-template
