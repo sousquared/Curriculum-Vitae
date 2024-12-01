@@ -19,6 +19,9 @@
   
 ### プログラミング言語
 - Python
+- JavaScript/TypeScript
+- React
+- Terraform
 
 ### 開発経験
 - GCP (Google Cloud Platform)
