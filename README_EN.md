@@ -77,9 +77,9 @@
 
 - [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Does training with blurred images bring convolutional neural networks closer to humans with respect to robust object recognition and internal representations?", Front. Psychol., Vol. 14,2023](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1047694/full)
 
-- [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Shape Bias獲得へ向けて： 人間の視覚発達過程に基づいた、段階的な画像ぼかしによる畳み込みニューラルネットワークの訓練", VISION, Vol. 33, No.1, 1-5, 2021.](https://doi.org/10.24636/vision.33.1_1) <br>
-[Best Presentation Award, Vision Society of Japan 2020 Summer Conference](https://sites.google.com/prod/view/vsj2020summer/home) <br>
-[code](https://github.com/sousquared/blur-training/tree/v2.0/)
+- (Japanese) [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Shape Bias 獲得へ向けて： 人間の視覚発達過程に基づいた、段階的な画像ぼかしによる畳み込みニューラルネットワークの訓練", VISION, Vol. 33, No.1, 1-5, 2021.](https://doi.org/10.24636/vision.33.1_1) <br>
+  [Best Presentation Award, Vision Society of Japan 2020 Summer Conference](https://sites.google.com/prod/view/vsj2020summer/home) <br>
+  [code](https://github.com/sousquared/blur-training/tree/v2.0/)
 
 ## Articles
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7年目の進化を遂げた「DSOps研修」の全貌](https://developers.cyberagent.co.jp/blog/archives/34628/) (Japanese)
