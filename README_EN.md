@@ -81,8 +81,6 @@
 [Best Presentation Award, Vision Society of Japan 2020 Summer Conference](https://sites.google.com/prod/view/vsj2020summer/home) <br>
 [code](https://github.com/sousquared/blur-training/tree/v2.0/)
 
-Reference: https://github.com/okohs/Curriculum-Vitae-template
-
 ## Articles
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7年目の進化を遂げた「DSOps研修」の全貌](https://developers.cyberagent.co.jp/blog/archives/34628/) (Japanese)
 
