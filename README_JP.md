@@ -4,9 +4,10 @@
 
 ## 基本情報
 
-| key       | value                                                |
+Name: 吉原 創 (Sou Yoshihara)
+
+| サービス名       | アカウント                                                 |
 | --------- | ---------------------------------------------------- |
-| Name      | 吉原 創 (Sou Yoshihara)                              |
 | GitHub    | [@sousquared](https://github.com/sousquared)         |
 | Instagram | [@sousquared](https://www.instagram.com/sousquared/) |
 | Twitter   | [@sou_squared](https://twitter.com/sou_squared)      |
