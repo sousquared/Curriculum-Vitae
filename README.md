@@ -2,11 +2,22 @@
 
 **Language**: [日本語 (Japanese)](README_JP.md) | [English](README_EN.md)
 
-Please select your preferred language above.
+上記から希望する言語を選択してください。 / Please select your preferred language above.
 
 ---
 
-## PDF 生成
+## このリポジトリについて
+
+このリポジトリには、履歴書と職務経歴書の Markdown ファイルが含まれています。
+
+- **一般利用者向け**: 上記の言語リンクから、詳細な情報を確認できます
+- **開発者向け**: PDF 生成機能を使用して、PDF 形式で出力できます（下記参照）。また、既に生成済みの PDF ファイルは `pdfs/` ディレクトリに格納されています
+
+---
+
+## PDF 生成（開発者向け）
+
+> **注意**: このセクションは開発者向けの機能です。PDF を生成する必要がない場合は、上記の言語リンクから詳細情報を確認してください。
 
 履歴書と職務経歴書を PDF 形式で出力できます。
 
@@ -39,7 +50,7 @@ MacTeX（約 4GB）は GUI アプリも含むフルセットですが、CLI の�
 
 スクリプト内で BasicTeX と Homebrew のパスを自動設定するため、追加のパス設定は不要です。
 
-生成された PDF は `pdfs/` ディレクトリに出力されます：
+生成された PDF は `pdfs/` ディレクトリに出力されます（既に生成済みの PDF もこのディレクトリに格納されています）：
 
 - `pdfs/resume_JP.pdf` - 履歴書（日本語）
 - `pdfs/work_history_JP.pdf` - 職務経歴書（日本語）
