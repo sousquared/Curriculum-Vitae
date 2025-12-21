@@ -2,7 +2,7 @@
 
 **Language**: [日本語 (Japanese)](README_JP.md) | [English](README_EN.md)
 
-Please select your preferred language above. / 上記から希望する言語を選択してください。
+上記から希望する言語を選択してください。 / Please select your preferred language above. 
 
 ---
 
