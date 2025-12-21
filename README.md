@@ -2,11 +2,22 @@
 
 **Language**: [日本語 (Japanese)](README_JP.md) | [English](README_EN.md)
 
-Please select your preferred language above.
+Please select your preferred language above. / 上記から希望する言語を選択してください。
 
 ---
 
-## PDF 生成
+## このリポジトリについて
+
+このリポジトリには、履歴書と職務経歴書の Markdown ファイルが含まれています。
+
+- **一般利用者向け**: 上記の言語リンクから、詳細な情報を確認できます
+- **開発者向け**: PDF 生成機能を使用して、PDF 形式で出力できます（下記参照）
+
+---
+
+## PDF 生成（開発者向け）
+
+> **注意**: このセクションは開発者向けの機能です。PDF を生成する必要がない場合は、上記の言語リンクから詳細情報を確認してください。
 
 履歴書と職務経歴書を PDF 形式で出力できます。
 
