@@ -63,6 +63,10 @@ Name: Sou Yoshihara (吉原 創)
 
 ## Work Experience
 
+### Career Summary
+
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to revenue growth, working backwards from business and management strategies. Through meetings with business leaders and discussions with engineering managers, I have built medium- to long-term strategies and directed and managed specific execution initiatives through PDCA cycles. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement.
+
 ### Aug 2018 - Aug 2020
 
 **Organization**: Hitachi, Ltd. / Kyoto University Lab  
@@ -87,9 +91,25 @@ Name: Sou Yoshihara (吉原 創)
 **Position**: ML Engineer  
 **Responsibilities**
 
-- PoC and production development of new features utilizing AI
-- Led an ML team of 4-5 members
-- Operating leader of DSOps training program
+**Strategic Planning & Direction**
+
+- Led strategic planning and research roadmaps for updating internal product search functionality and new features
+- Built medium- to long-term strategies through meetings with business leaders and engineering managers, directing and managing specific execution initiatives through PDCA cycles
+
+**Search Feature Improvement**
+
+- Formulated hypotheses from user usage history and improved image search quality by adding semantic search, **doubling search feature usage rates**
+- Experimented and implemented logic to filter out poor-quality search results, **filtering out 40% of poor-quality search results**
+
+**ML Ops Optimization**
+
+- Conducted load testing for GPU inference batch processing using GKE and optimized resources. **Achieved 6.28x faster inference speed compared to CPU**
+- Reduced processing time by **62%** through preprocessing acceleration (including cache utilization)
+
+**Organizational Development**
+
+- As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
+- As operating leader of DSOps training, planned new initiatives and built a system where new projects emerge from training (see [article](https://developers.cyberagent.co.jp/blog/archives/34628/) for details. It is written in Japanese.)
 
 ### Apr 2025 ~ Present
 
@@ -97,8 +117,31 @@ Name: Sou Yoshihara (吉原 創)
 **Position**: ML Engineer  
 **Responsibilities**
 
-- Developing ad auto-generation logic in the Kiwami AI Auto Generation team
-- Working with 1-2 engineers and 1-2 PMs, focusing on speed in development
+**Auto-Generation Logic Development**
+
+- Participated in 4 auto-generation logic projects as a machine learning engineer
+- Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
+
+**Project Results**
+
+- In the 1st project, validated 2 modules and **achieved 74% success rate quality in auto-generation within 2 months**
+- In the 3rd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90% success rate quality within 3 months**
+- In the 4th project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90%+ quality within 2 months**
+
+**Development Process Improvement**
+
+- Built experiment pipelines for high-speed experiments
+- Designed workflows to quickly reflect annotation results into improvement logic
+- Built systems for rapid verbalization of good/bad feedback from creators
+- Established processes that balance development speed with quality improvement
+
+**Cost Optimization**
+
+- Cleaned up unused GKE and VMs, **contributing to approximately $2,500 monthly cost reduction**
+
+**Organizational Development**
+
+- As operating leader of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.)
 
 ## Research
 
