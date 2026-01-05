@@ -106,6 +106,10 @@ As an engineer, I have not only developed features but also considered which PoC
 - Conducted load testing for GPU inference batch processing using GKE and optimized resources. **Achieved 6.28x faster inference speed compared to CPU**
 - Reduced processing time by **62%** through preprocessing acceleration (including cache utilization)
 
+**Cost Optimization**
+
+- Cleaned up unused GKE and VMs, **contributing to approximately $2,500 monthly cost reduction**
+
 **Organizational Development**
 
 - As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
@@ -134,10 +138,6 @@ As an engineer, I have not only developed features but also considered which PoC
 - Designed workflows to quickly reflect annotation results into improvement logic
 - Built systems for rapid verbalization of good/bad feedback from creators
 - Established processes that balance development speed with quality improvement
-
-**Cost Optimization**
-
-- Cleaned up unused GKE and VMs, **contributing to approximately $2,500 monthly cost reduction**
 
 **Organizational Development**
 
