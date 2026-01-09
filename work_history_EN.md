@@ -113,7 +113,7 @@ As an engineer, I have not only developed features but also considered which PoC
 **Organizational Development**
 
 - As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
-- As operating leader of DSOps training, planned new initiatives and built a system where new projects emerge from training (see [article](https://developers.cyberagent.co.jp/blog/archives/34628/) for details. It is written in Japanese.)
+- As operating leader of DSOps training, planned new initiatives and built a system where new projects emerge from training (see [article][dsops-training] for details. It is written in Japanese.)
 
 ### Apr 2025 ~ Present
 
@@ -155,4 +155,6 @@ As an engineer, I have not only developed features but also considered which PoC
 
 ## Articles
 
-- [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌](https://developers.cyberagent.co.jp/blog/archives/34628/) (Japanese)
+- [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training] (Japanese)
+
+[dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/

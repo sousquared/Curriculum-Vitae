@@ -113,7 +113,7 @@ Name: 吉原 創 (Sou Yoshihara)
 **組織開発**
 
 - 4~5 人規模の ML チームのリーダーとして、AI を活用した新機能の PoC やサービスイン開発を推進
-- DSOps 研修の運営リーダーとして新たな施策を企画し、研修から新しいプロジェクトが生まれる仕組みを構築（詳細は[記事](https://developers.cyberagent.co.jp/blog/archives/34628/)参照）
+- DSOps 研修の運営リーダーとして新たな施策を企画し、研修から新しいプロジェクトが生まれる仕組みを構築（詳細は[記事][dsops-training]参照）
 
 ### 2025/04 ~ 現在
 
@@ -157,4 +157,6 @@ Name: 吉原 創 (Sou Yoshihara)
 
 ## 記事
 
-- [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌](https://developers.cyberagent.co.jp/blog/archives/34628/)
+- [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training]
+
+[dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
