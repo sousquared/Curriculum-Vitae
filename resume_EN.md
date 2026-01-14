@@ -22,9 +22,11 @@ Name: Sou Yoshihara (吉原 創)
   - TOEIC 875 (Apr 2019)
   - TOEFL 85 (Jun 2017)
 
-### Programming Languages
+### Programming Languages & Frameworks
 
 - Python
+- FastAPI
+- Triton Inference Server
 - JavaScript/TypeScript
 - React
 - Terraform
@@ -32,6 +34,10 @@ Name: Sou Yoshihara (吉原 創)
 ### Cloud/Infrastructure
 
 - GCP (Google Cloud Platform)
+  - Cloud Run
+  - Cloud Build
+  - GKE (Google Kubernetes Engine)
+  - Cloud Composer
 
 ## Education
 
@@ -51,7 +57,7 @@ Name: Sou Yoshihara (吉原 創)
 
 ### Career Summary
 
-As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to revenue growth, working backwards from business and management strategies. Through meetings with business leaders and discussions with engineering managers, I have built medium- to long-term strategies and directed and managed specific execution initiatives through PDCA cycles. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement.
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 3 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement.
 
 | Period              | Organization                                                    | Position                       |
 | ------------------- | --------------------------------------------------------------- | ------------------------------ |
