@@ -158,5 +158,8 @@ Name: 吉原 創 (Sou Yoshihara)
 ## 記事
 
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training]
+- [Codex MCP を活用した AI Coding 開発: Codex 利用率 社内 3 位の活用術][codex-mcp-development]
+- その他 zenn で主に技術系の記事を書いています: [Zenn:@sousquared](https://zenn.dev/sousquared)
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
+[codex-mcp-development]: https://developers.cyberagent.co.jp/blog/archives/61630/
