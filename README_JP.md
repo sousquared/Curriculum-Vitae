@@ -104,3 +104,12 @@ Name: 吉原 創 (Sou Yoshihara)
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
 [codex-mcp-development]: https://developers.cyberagent.co.jp/blog/archives/61630/
+
+## 個人プロジェクト
+
+### Vocavisual: Linking words with visuals, beyond your native language.
+母国語を介さずに画像と学習している単語を直接結びつけることを目指すプロジェクトです。
+例えば、「cat」という単語を学習していとき、「猫」という日本語に訳して覚えるのではなく、「猫の画像」と結びつけて覚えることを目指します。
+母国語を介さずに画像と学習している単語を直接結びつけることで、より深い理解を促進することができると考えています。
+以下のインスタグラムアカウントで実施しています。
+- Vocavisual Korean: https://www.instagram.com/vocavisual_korean/
