@@ -11,6 +11,12 @@ Name: Sou Yoshihara (吉原 創)
 | Twitter   | [@sou_squared](https://twitter.com/sou_squared)      |
 | Zenn      | [@sousquared](https://zenn.dev/sousquared)           |
 
+## Personal Career Philosophy
+
+Since childhood, I have loved drawing manga and illustrations so much that I once aspired to become a manga artist.<br>
+With this background, I work with the desire to contribute to the creative and entertainment fields.<br>
+My goal is to create products and works that bring joy to users.
+
 ## Skills
 
 ### Languages
@@ -22,9 +28,11 @@ Name: Sou Yoshihara (吉原 創)
   - TOEIC 875 (Apr 2019)
   - TOEFL 85 (Jun 2017)
 
-### Programming Languages
+### Programming Languages & Frameworks
 
 - Python
+- FastAPI
+- Triton Inference Server
 - JavaScript/TypeScript
 - React
 - Terraform
@@ -35,6 +43,7 @@ Name: Sou Yoshihara (吉原 創)
   - Cloud Run
   - Cloud Build
   - GKE (Google Kubernetes Engine)
+  - Cloud Composer
   - etc.
 
 ### Development Experience
@@ -51,6 +60,7 @@ Name: Sou Yoshihara (吉原 創)
 
 ## Strengths
 
+- Can handle everything from PoC to production development
 - Proactively taking action based on my interests
 - Strong presentation and explanation skills
 - International network of friends around the world
@@ -65,7 +75,7 @@ Name: Sou Yoshihara (吉原 創)
 
 ### Career Summary
 
-As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to revenue growth, working backwards from business and management strategies. Through meetings with business leaders and discussions with engineering managers, I have built medium- to long-term strategies and directed and managed specific execution initiatives through PDCA cycles. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement.
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 3 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
 
 ### Aug 2018 - Aug 2020
 
@@ -91,29 +101,30 @@ As an engineer, I have not only developed features but also considered which PoC
 **Position**: ML Engineer  
 **Responsibilities**
 
-**Strategic Planning & Direction**
+**Strategic Planning**
 
-- Led strategic planning and research roadmaps for updating internal product search functionality and new features
-- Built medium- to long-term strategies through meetings with business leaders and engineering managers, directing and managing specific execution initiatives through PDCA cycles
+- As a leader of the ML team, led strategic planning and roadmap creation for updating internal product search functionality and new features
 
 **Search Feature Improvement**
 
-- Formulated hypotheses from user usage history and improved image search quality by adding semantic search, **doubling search feature usage rates**
-- Experimented and implemented logic to filter out poor-quality search results, **filtering out 40% of poor-quality search results**
+- Formulated hypotheses from user usage history and improved functionality. Specifically, by adding multimodal search using images and text (e.g., searching with a material image + "premium feel"), improved the usability of image search and **successfully doubled search feature usage rates**. Also experimented and implemented logic to filter out poor-quality search results, **filtering out 40% of poor-quality search results** and improving the quality of search results displayed to users
 
-**ML Ops Optimization**
+**Backend Development**
 
-- Conducted load testing for GPU inference batch processing using GKE and optimized resources. **Achieved 6.28x faster inference speed compared to CPU**
-- Reduced processing time by **62%** through preprocessing acceleration (including cache utilization)
+- Also handled API development, mainly gaining experience in microservice development using Cloud Run
+
+**MLOps**
+
+- Under senior MLOps members, worked on building and operating basic inference servers and inference pipelines (using GKE, Triton, Cloud Batch, Apache Airflow on Cloud Composer, etc.). As a personal achievement, migrated the inference infrastructure from CPU to GPU. As a result, **achieved 6.28x faster inference speed compared to CPU**. Also reduced processing time by **62%** through preprocessing acceleration (including cache utilization)
 
 **Cost Optimization**
 
 - Cleaned up unused GKE and VMs, **contributing to approximately $2,500 monthly cost reduction**
 
-**Organizational Development**
+**Organizational Contribution**
 
 - As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
-- As operating leader of DSOps training, planned new initiatives and built a system where new projects emerge from training (see [article][dsops-training] for details. It is written in Japanese.)
+- Also, as operating leader of DSOps training, planned new initiatives and built a system where participating in training leads to actual projects in the field (see [article][dsops-training] for details. It is written in Japanese.)
 
 ### Apr 2025 ~ Present
 
@@ -121,27 +132,24 @@ As an engineer, I have not only developed features but also considered which PoC
 **Position**: ML Engineer  
 **Responsibilities**
 
-**Auto-Generation Logic Development**
+**Ad Auto-Generation Logic Development**
 
-- Participated in 4 auto-generation logic projects as a machine learning engineer
+- Participated in 3 ad auto-generation logic projects as a machine learning engineer
 - Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
 
 **Project Results**
 
-- In the 1st project, validated 2 modules and **achieved 74% success rate quality in auto-generation within 2 months**
-- In the 3rd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90% success rate quality within 3 months**
-- In the 4th project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90%+ quality within 2 months**
+- In the 1st project, **achieved 74% success rate quality in auto-generation within 2 months**
+- In the 2nd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90% success rate quality within 3 months**
+- In the 3rd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90%+ quality within 2 months**. In all projects, collaborated with ad creators on requirements definition, rapidly iterated through experiment implementation, annotation requests, and feature improvement PDCA cycles, conducting speed-focused development. Also handled API implementation when necessary
 
 **Development Process Improvement**
 
-- Built experiment pipelines for high-speed experiments
-- Designed workflows to quickly reflect annotation results into improvement logic
-- Built systems for rapid verbalization of good/bad feedback from creators
-- Established processes that balance development speed with quality improvement
+- Built experiment pipelines for high-speed experiments, designed workflows to quickly reflect annotation results into improvement logic, and built systems for rapid verbalization of good/bad feedback from creators, establishing processes that balance development speed with quality improvement
 
-**Organizational Development**
+**Organizational Contribution**
 
-- As operating leader of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.)
+- As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.)
 
 ## Research
 
@@ -166,7 +174,9 @@ As an engineer, I have not only developed features but also considered which PoC
 
 ### Vocavisual: Linking words with visuals, beyond your native language.
 
-This project aims to directly connect images with words being learned, without relying on one's native language. For example, when learning the word "cat," instead of translating it to "猫" (cat in Japanese) and memorizing it, the goal is to associate it with an image of a cat. By directly connecting images with words being learned without using one's native language as an intermediary, I believe this can promote deeper understanding.
+This project aims to directly connect images with words being learned, without relying on one's native language.<br>
+For example, when learning the word "cat," instead of translating it to "猫" (cat in Japanese) and memorizing it, the goal is to associate it with an image of a cat.<br>
+By directly connecting images with words being learned without using one's native language as an intermediary, I believe this can promote deeper understanding.<br>
 The project is being conducted on the following Instagram account:
 
 - Vocavisual Korean: https://www.instagram.com/vocavisual_korean/
