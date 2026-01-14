@@ -161,3 +161,12 @@ As an engineer, I have not only developed features but also considered which PoC
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
 [codex-mcp-development]: https://developers.cyberagent.co.jp/blog/archives/61630/
+
+## Personal Projects
+
+### Vocavisual: Linking words with visuals, beyond your native language.
+
+This project aims to directly connect images with words being learned, without relying on one's native language. For example, when learning the word "cat," instead of translating it to "猫" (cat in Japanese) and memorizing it, the goal is to associate it with an image of a cat. By directly connecting images with words being learned without using one's native language as an intermediary, I believe this can promote deeper understanding.
+The project is being conducted on the following Instagram account:
+
+- Vocavisual Korean: https://www.instagram.com/vocavisual_korean/
