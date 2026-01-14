@@ -96,5 +96,8 @@ As an engineer, I have not only developed features but also considered which PoC
 ## Articles
 
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training] (Japanese)
+- [Codex MCP を活用した AI Coding 開発: Codex 利用率 社内 3 位の活用術][codex-mcp-development] (Japanese)
+- I also write mainly technical articles on Zenn: [Zenn:@sousquared](https://zenn.dev/sousquared) (Japanese)
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
+[codex-mcp-development]: https://developers.cyberagent.co.jp/blog/archives/61630/
