@@ -75,7 +75,7 @@ My goal is to create products and works that bring joy to users.
 
 ### Career Summary
 
-As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. As a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 3 auto-generation logic projects, achieving 90%+ quality in banner ad image auto-generation within 2-3 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. In the New Business Development team, I worked on improving product logic to reduce designers' production work, API development, and model serving. Also, as a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects over the course of one year, achieving service-level success rates in 3 of them. For example, I achieved 90%+ quality in banner ad image auto-generation for a certain pattern within approximately 2 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
 
 ### Aug 2018 - Aug 2020
 
@@ -100,6 +100,8 @@ As an engineer, I have not only developed features but also considered which PoC
 **Organization**: CyberAgent / Kiwami AI Division / New Business Development Team  
 **Position**: ML Engineer  
 **Responsibilities**
+
+I worked on improving product logic to reduce designers' production work, API development, and model serving.
 
 **Strategic Planning**
 
@@ -134,22 +136,17 @@ As an engineer, I have not only developed features but also considered which PoC
 
 **Ad Auto-Generation Logic Development**
 
-- Participated in 3 ad auto-generation logic projects as a machine learning engineer
-- Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
+- Participated in 4 auto-generation logic projects over the course of one year, achieving service-level success rates in 3 of them. Specifically, these projects involved consolidating ad patterns proposed by creators into requirements, translating them to implementation level, and confirming success rates through human annotation. Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
 
 **Project Results**
 
-- In the 1st project, **achieved 74% success rate quality in auto-generation within 2 months**
-- In the 2nd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90% success rate quality within 3 months**
-- In the 3rd project, worked with 2 engineers on banner ad image auto-generation and **successfully developed auto-generation logic with 90%+ quality within 2 months**. In all projects, collaborated with ad creators on requirements definition, rapidly iterated through experiment implementation, annotation requests, and feature improvement PDCA cycles, conducting speed-focused development. Also handled API implementation when necessary
-
-**Development Process Improvement**
-
-- Built experiment pipelines for high-speed experiments, designed workflows to quickly reflect annotation results into improvement logic, and built systems for rapid verbalization of good/bad feedback from creators, establishing processes that balance development speed with quality improvement
+- (Since specific logic details are confidential, I will describe based on success rates) Among the successful projects, in the 1st project, collaborated with 5 engineers and **achieved 74% success rate quality in auto-generation within 2 months** (this was quite high accuracy before NanoBananaPro was released)
+- In the 2nd project, worked with 2 engineers on banner ad image auto-generation for a certain pattern and **successfully developed auto-generation logic with 90% success rate quality within 3 months**. In this project, I mainly handled prompt tuning for image generation and image filtering, and implementation of generation pipelines
+- In the 3rd project, worked with 2 engineers on banner ad image auto-generation for a certain pattern and **successfully developed auto-generation logic with 90%+ quality within 2 months**. In this project, I handled prompt tuning for image filtering and clear verbalization of annotation criteria. In all projects, collaborated with ad creators on requirements definition, rapidly iterated through experiment implementation, annotation requests, and feature improvement PDCA cycles, conducting speed-focused development. Also handled API implementation when necessary
 
 **Organizational Contribution**
 
-- As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.)
+- As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.). (I was the moderator for this [article][dsops-special-lecture].)
 
 ## Research
 
@@ -164,10 +161,12 @@ As an engineer, I have not only developed features but also considered which PoC
 ## Articles
 
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training] (Japanese)
+- [【対談】ML/DSにおける問題設定術 ～ 不確実な業界で生き抜くために ～ | CyberAgent Way サイバーエージェント公式オウンドメディア][dsops-special-lecture] (Japanese) (I was the moderator for this article.)
 - [Codex MCP を活用した AI Coding 開発: Codex 利用率 社内 3 位の活用術][codex-mcp-development] (Japanese)
 - I also write mainly technical articles on Zenn: [Zenn:@sousquared](https://zenn.dev/sousquared) (Japanese)
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
+[dsops-special-lecture]: https://www.cyberagent.co.jp/way/list/detail/id=32897
 [codex-mcp-development]: https://developers.cyberagent.co.jp/blog/archives/61630/
 
 ## Personal Projects
