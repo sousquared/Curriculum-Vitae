@@ -110,7 +110,7 @@ As an engineer, I have not only developed features but also considered which PoC
 - [新卒データサイエンティストが"自らビジネスを動かす"ために —— 7 年目の進化を遂げた「DSOps 研修」の全貌][dsops-training] (Japanese)
 - [【対談】ML/DSにおける問題設定術 ～ 不確実な業界で生き抜くために ～ | CyberAgent Way サイバーエージェント公式オウンドメディア][dsops-special-lecture] (Japanese) (I was the moderator for this article.)
 - [Codex MCP を活用した AI Coding 開発: Codex 利用率 社内 3 位の活用術][codex-mcp-development] (Japanese)
-- [Why CyberAgent Chose ChatGPT and Codex | OpenAI][openai-cyberagent] (Featured as one of the top Codex users in the company)
+  - [Why CyberAgent Chose ChatGPT and Codex | OpenAI][openai-cyberagent] (The above article was featured, and I was introduced as one of the top Codex users)
 - I also write mainly technical articles on Zenn: [Zenn:@sousquared](https://zenn.dev/sousquared) (Japanese)
 
 [dsops-training]: https://developers.cyberagent.co.jp/blog/archives/58381/
