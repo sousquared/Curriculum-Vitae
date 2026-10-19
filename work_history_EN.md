@@ -75,7 +75,7 @@ My goal is to create products and works that bring joy to users.
 
 ### Career Summary
 
-As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. In the New Business Development team, I worked on improving product logic to reduce designers' production work, API development, and model serving. Also, as a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects over the course of one year, achieving service-level success rates in 3 of them. For example, I achieved 90%+ quality in banner ad image auto-generation for a certain pattern within approximately 2 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. In the New Business Development team, I worked on improving product logic to reduce designers' production work, API development, and model serving. Also, as a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects during my tenure, achieving service-level success rates in 3 of them. For example, I achieved 90%+ quality in banner ad image auto-generation for a certain pattern within approximately 2 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. I am currently the development lead for an internal annotation tool, expanding the tool's reach by deploying it to a separate region and supporting confidential data. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
 
 ### Aug 2018 - Aug 2020
 
@@ -128,7 +128,7 @@ I worked on improving product logic to reduce designers' production work, API de
 - As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
 - Also, as operating leader of DSOps training, planned new initiatives and built a system where participating in training leads to actual projects in the field (see [article][dsops-training] for details. It is written in Japanese.)
 
-### Apr 2025 ~ Present
+### Apr 2025 ~ Dec 2025
 
 **Organization**: CyberAgent / Kiwami AI Division / Auto Generation Team  
 **Position**: ML Engineer  
@@ -136,7 +136,7 @@ I worked on improving product logic to reduce designers' production work, API de
 
 **Ad Auto-Generation Logic Development**
 
-- Participated in 4 auto-generation logic projects over the course of one year, achieving service-level success rates in 3 of them. Specifically, these projects involved consolidating ad patterns proposed by creators into requirements, translating them to implementation level, and confirming success rates through human annotation. Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
+- Participated in 4 auto-generation logic projects during my tenure, achieving service-level success rates in 3 of them. Specifically, these projects involved consolidating ad patterns proposed by creators into requirements, translating them to implementation level, and confirming success rates through human annotation. Collaborated with 1-2 engineers and 1-2 PMs, promoting speed-focused development
 
 **Project Results**
 
@@ -147,6 +147,20 @@ I worked on improving product logic to reduce designers' production work, API de
 **Organizational Contribution**
 
 - As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.). (I was the moderator for this [article][dsops-special-lecture].)
+
+### Jan 2026 ~ Present
+
+**Organization**: CyberAgent / AI Creative Company  
+**Position**: ML Engineer (Development Lead, Internal Platform Tool)  
+**Responsibilities**
+
+As the development lead for an internal annotation tool (web application), I am responsible end to end, from requirements definition through production release and operations.
+
+- **Expanding Usage**: Built a production environment in a separate region and drove it through the first release, **making the tool available to a new group of users**. In addition to building the infrastructure, I coordinated with the legal team on the terms of use and privacy policy, and prepared manuals for user departments
+- **Supporting Confidential Data**: Led project-level access control and role management from requirements definition through release, **enabling internal departments that handle highly confidential data to use the tool**. Also addressed the findings of a third-party security assessment
+- **Continuous Improvement**: Continuously released new task formats and usability improvements based on requests from user departments
+- **Development Process**: Set up a development workflow using AI coding agents along with continuous deployment, so that development and releases do not depend on any specific person. **Merged approximately 370 pull requests** in about 9 months
+- Main technologies: TypeScript (Next.js / NestJS), PostgreSQL, Terraform, GitHub Actions, GCP (Cloud Run / Cloud SQL)
 
 ## Research
 
