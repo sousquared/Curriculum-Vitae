@@ -148,6 +148,37 @@ I worked on improving product logic to reduce designers' production work, API de
 
 - As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.). (I was the moderator for this [article][dsops-special-lecture].)
 
+## Side Work / Freelance
+
+### Jul 2026 ~ Present
+
+**Organization**: canuu (Side Work / Freelance)  
+**Position**: Engineer (AI-OCR Feature, from PoC to Production)  
+**Responsibilities**
+
+For a sales management SaaS for seafood intermediate wholesalers, I was responsible for an AI-OCR feature that reads paper purchase slips from photos to assist data entry, from PoC through its production launch.
+
+**Problem Identification**
+
+- Built an accuracy evaluation framework (approximately 100 slip photos, human-verified ground-truth data, and automated scoring) and measured where errors occurred at each stage
+- As a result, clarified that character recognition (OCR) on the slips was already at a practical level, and that the main cause of lower accuracy was **matching the item names written on the slips to the product codes managed by the wholesaler**
+  - Recognition: amounts were correct on all evaluated rows, and about 80% of product names were read correctly
+  - Matching: in practice, the same product is written differently by each supplier, and on the record side, multiple products are sometimes registered together under a generic code. For more than half of the ground-truth data, the correct code could not be determined from the item name alone
+- Based on this analysis, proposed shifting the direction for improving accuracy from "finding a better OCR model" to "a mechanism that learns matching from human corrections"
+
+**Model Selection**
+
+- Compared 9 multimodal LLMs under the same conditions and chose the model to adopt based on accuracy, cost, and output stability
+- Found that some low-cost models made errors where the numbers were correct but item names were plausibly fabricated, and excluded them from the candidates
+
+**Production Feature Improvements**
+
+- Changed the item-name-to-product mapping table so that it is built from human selections and updated when a selection is changed
+- Recorded both the machine's answers and human corrections so that accuracy can be measured continuously
+- Also published a trial environment (Docker, AWS App Runner) and prepared the configuration and documentation required for the production launch
+
+**Technologies Used**: Python, Go, TypeScript / Next.js, AWS (Bedrock, App Runner), Anthropic API, Terraform, Docker, Claude Code
+
 ## Research
 
 - [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", VSS, Poster session, 2021.](https://jov.arvojournals.org/article.aspx?articleid=2777412)
