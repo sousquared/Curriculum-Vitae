@@ -35,16 +35,24 @@ My goal is to create products and works that bring joy to users.
 - Triton Inference Server
 - JavaScript/TypeScript
 - React
+- Next.js
+- NestJS
 - Terraform
+
+### Database
+
+- PostgreSQL
 
 ### Cloud/Infrastructure
 
 - GCP (Google Cloud Platform)
   - Cloud Run
   - Cloud Build
+  - Cloud SQL
   - GKE (Google Kubernetes Engine)
   - Cloud Composer
   - etc.
+- GitHub Actions
 
 ### Development Experience
 
@@ -75,7 +83,7 @@ My goal is to create products and works that bring joy to users.
 
 ### Career Summary
 
-As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. In the New Business Development team, I worked on improving product logic to reduce designers' production work, API development, and model serving. Also, as a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects during my tenure, achieving service-level success rates in 3 of them. For example, I achieved 90%+ quality in banner ad image auto-generation for a certain pattern within approximately 2 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. I am currently the development lead for an internal annotation tool, expanding the tool's reach by deploying it to an overseas region and supporting confidential data. Also, as operating leader and member of DSOps training, I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
+As an engineer, I have not only developed features but also considered which PoCs and new features would become competitive advantages for the service and contribute to KPI improvements such as revenue growth, working backwards from business strategies. In the New Business Development team, I worked on improving product logic to reduce designers' production work, API development, and model serving. Also, as a leader of an ML team of 4-5 members, I led strategic planning and research roadmaps for updating internal product search functionality and new features, achieving quantitative results such as doubling search feature usage rates. In the Auto Generation team, I participated in 4 auto-generation logic projects during my tenure, achieving service-level success rates in 3 of them. For example, I achieved 90%+ quality in banner ad image auto-generation for a certain pattern within approximately 2 months. I built high-speed experiment pipelines and annotation-based improvement workflows, balancing development speed with quality improvement. I am currently the development lead for an internal annotation tool, expanding the tool's reach by deploying it to an overseas region and supporting confidential data. Also, as an operating member of DSOps training (2023–2025, serving as operating leader in 2024), I built a system where participating in training leads to actual projects in the field, contributing to organizational growth.
 
 ### Aug 2018 - Aug 2020
 
@@ -126,7 +134,7 @@ I worked on improving product logic to reduce designers' production work, API de
 **Organizational Contribution**
 
 - As a leader of an ML team of 4-5 members, promoted PoC and production development of new features utilizing AI
-- Also, as operating leader of DSOps training, planned new initiatives and built a system where participating in training leads to actual projects in the field (see [article][dsops-training] for details. It is written in Japanese.)
+- Also, as operating leader of DSOps training (2024), planned new initiatives and built a system where participating in training leads to actual projects in the field (see [article][dsops-training] for details. It is written in Japanese.)
 
 ### Apr 2025 ~ Dec 2025
 
@@ -146,7 +154,7 @@ I worked on improving product logic to reduce designers' production work, API de
 
 **Organizational Contribution**
 
-- As an operating member of DSOps training, realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.). (I was the moderator for this [article][dsops-special-lecture].)
+- As an operating member of DSOps training (2025), realized a special lecture by Yuta Saito (Ph.D., Cornell University, Hanjuku Virtual Co., Ltd.). (I was the moderator for this [article][dsops-special-lecture].)
 
 ### Jan 2026 ~ Present
 
