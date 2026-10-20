@@ -198,7 +198,7 @@ For a sales management SaaS for seafood intermediate wholesalers, I was responsi
 - Recorded both the machine's answers and human corrections so that accuracy can be measured continuously
 - Also published a trial environment (Docker, AWS App Runner) and prepared the configuration and documentation required for the production launch
 
-**Technologies Used**: Python, TypeScript / Next.js, AWS (Bedrock, App Runner), Anthropic API, Terraform, Docker, Claude Code
+**Technologies Used**: Python, Go, TypeScript / Next.js, AWS (Bedrock, App Runner), Anthropic API, Terraform, Docker, Claude Code
 
 ## Research
 
