@@ -159,7 +159,7 @@ As the development lead for an internal annotation tool (web application), I am 
 - **Expanding Usage**: Built a production environment in an overseas region and drove it through the first release, **making the tool available to a new group of users**. In addition to building the infrastructure, I handled the pre-release vulnerability assessment, worked with the legal team to prepare terms of use and a privacy policy for that region, and prepared manuals for user departments
 - **Supporting Confidential Data**: Led project-level access control and role management from requirements definition through release, **enabling internal departments that handle highly confidential data to use the tool**. Also addressed the findings of a third-party security assessment
 - **Continuous Improvement**: Continuously released new task formats and usability improvements based on requests from user departments
-- **Development Process**: Set up a development workflow using AI coding agents along with continuous deployment, so that development and releases do not depend on any specific person. **Merged approximately 370 pull requests** in about 9 months
+- **Development Process**: Set up a development workflow using AI coding agents along with continuous deployment, **so that development and releases do not depend on any specific person**
 - Main technologies: TypeScript (Next.js / NestJS), PostgreSQL, Terraform, GitHub Actions, GCP (Cloud Run / Cloud SQL)
 
 ## Research
