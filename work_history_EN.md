@@ -170,6 +170,36 @@ As the development lead for an internal annotation tool (web application), I am 
 - **Development Process**: Set up a development workflow using AI coding agents along with continuous deployment, **so that development and releases do not depend on any specific person**
 - Main technologies: TypeScript (Next.js / NestJS), PostgreSQL, Terraform, GitHub Actions, GCP (Cloud Run / Cloud SQL)
 
+## Side Work / Freelance
+
+### Jul 2026 ~ Present
+
+**Organization**: canuu (Side Work / Freelance)  
+**Position**: Engineer (AI-OCR Feature, from PoC to Production)  
+**Responsibilities**
+
+For a sales management SaaS for seafood intermediate wholesalers, I was responsible for an AI-OCR feature that reads paper purchase slips from photos to assist data entry, from PoC through its production launch.
+
+**Problem Identification**
+
+- Built an accuracy evaluation framework (approximately 100 slip photos, human-verified ground-truth data, and automated scoring) and measured where errors occurred at each stage
+- As a result, clarified that character recognition (OCR) on the slips was already at a practical level, and that the main cause of lower accuracy was **matching the item names written on the slips to the product codes managed by the wholesaler**
+  - Recognition: amounts were correct on all evaluated rows, and about 80% of product names were read correctly
+  - Matching: in practice, the same product is written differently by each supplier, and on the record side, multiple products are sometimes registered together under a generic code. For more than half of the ground-truth data, the correct code could not be determined from the item name alone
+- Based on this analysis, proposed shifting the direction for improving accuracy from "finding a better OCR model" to "a mechanism that learns matching from human corrections"
+
+**Model Selection**
+
+- Compared multiple multimodal LLMs available on AWS Bedrock side by side under the same conditions using the evaluation framework above, and chose the model to adopt based on accuracy, cost, and output stability
+
+**Production Feature Improvements**
+
+- Changed the item-name-to-product mapping table so that it is built from human selections and updated when a selection is changed
+- Recorded both the machine's answers and human corrections so that accuracy can be measured continuously
+- Also published a trial environment (Docker, AWS App Runner) and prepared the configuration and documentation required for the production launch
+
+**Technologies Used**: Python, Go, TypeScript / Next.js, AWS (Bedrock, App Runner), Anthropic API, Terraform, Docker, Claude Code
+
 ## Research
 
 - [Sou Yoshihara, Taiki Fukiage, Shin'ya Nishida, "Towards acquisition of shape bias: Training convolutional neural networks with blurred images.", VSS, Poster session, 2021.](https://jov.arvojournals.org/article.aspx?articleid=2777412)
