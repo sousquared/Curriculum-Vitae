@@ -190,7 +190,7 @@ For a sales management SaaS for seafood intermediate wholesalers, I was responsi
 
 **Model Selection**
 
-- Compared 9 multimodal LLMs under the same conditions and chose the model to adopt based on accuracy, cost, and output stability
+- Compared multiple multimodal LLMs available on AWS Bedrock side by side under the same conditions using the evaluation framework above, and chose the model to adopt based on accuracy, cost, and output stability
 
 **Production Feature Improvements**
 
