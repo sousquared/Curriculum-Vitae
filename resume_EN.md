@@ -78,3 +78,9 @@ As an engineer, I have not only developed features but also considered which PoC
 | Apr 2025 ~ Dec 2025 | CyberAgent / Kiwami AI Division / Auto Generation Team          | ML Engineer                    |
 | ------------------- | --------------------------------------------------------------- | ------------------------------ |
 | Jan 2026 ~ Present  | CyberAgent / AI Creative Company | ML Engineer (Development Lead, Internal Platform Tool) |
+
+## Side Work / Freelance
+
+| Period              | Organization                  | Position                                          |
+| ------------------- | ----------------------------- | ------------------------------------------------- |
+| Jul 2026 ~ Present  | canuu (Side Work / Freelance) | Engineer (AI-OCR Feature, from PoC to Production) |
