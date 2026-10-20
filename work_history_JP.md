@@ -198,7 +198,7 @@
 - 機械の答えと人の訂正を記録に残し、精度を継続的に測れるようにした
 - 試用環境の公開（Docker・AWS App Runner）や、本番での提供開始に必要な設定・文書の整備も行った
 
-**使用技術**: Python, Go, TypeScript / Next.js, AWS（Bedrock, App Runner）, Anthropic API, Terraform, Docker, Claude Code
+**使用技術**: Python, TypeScript / Next.js, AWS（Bedrock, App Runner）, Anthropic API, Terraform, Docker, Claude Code
 
 ## 研究
 
