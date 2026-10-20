@@ -191,7 +191,6 @@ For a sales management SaaS for seafood intermediate wholesalers, I was responsi
 **Model Selection**
 
 - Compared 9 multimodal LLMs under the same conditions and chose the model to adopt based on accuracy, cost, and output stability
-- Found that some low-cost models made errors where the numbers were correct but item names were plausibly fabricated, and excluded them from the candidates
 
 **Production Feature Improvements**
 
